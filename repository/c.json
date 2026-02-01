@@ -2084,8 +2084,6 @@
 		{
 			"name": "CodeContinue",
 			"details": "https://github.com/kXborg/codeContinue",
-			"author": "Kukil Kashyap Borgohain",
-			"description": "AI Code Completion for Sublime Text",
 			"labels": ["auto-complete", "ai"],
 			"releases": [
 				{
